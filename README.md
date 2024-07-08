@@ -1,2 +1,2 @@
 ## Sumber Griya Abadi
-Website landing page 
+Next Js
